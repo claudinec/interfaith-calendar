@@ -1,0 +1,18 @@
+Circumcision of Jesus:
+  calendar: Gregorian
+  month: 1
+  day: 1
+
+Epiphany:
+  calendar: Gregorian
+  month: 1
+  day: 6
+
+Baptism of Jesus:
+  calendar: Gregorian
+  month: 1
+  day: 10
+
+Conversion of St Paul:
+  month: 1
+  day: 25
