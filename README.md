@@ -14,10 +14,10 @@ Moveable dates.
 
 ```yaml
 Primary name:
-month:
-day:
   alternative names:
   calendar: Gregorian (default) or Julian
+  month:
+  day:
   hemisphere: North or South
   description:
   notes:
