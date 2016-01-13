@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <h1>Interfaith Calendar</h1>
+
+    <p>Today is {{ now }}.</p>
+    <p>Events for {{ now }} to {{ oneweek }}.</p>
+
+    <pre>
+{{ dump(data) }}
+    </pre>
+{% endblock %}
