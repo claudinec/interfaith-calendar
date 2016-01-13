@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "58c408590cf9a6626b041531c2ee48cc",
-    "content-hash": "b1385f50cd5158cde73bcb0d167b018c",
+    "hash": "fe489668db8b4727442e16e7a437e192",
+    "content-hash": "bd3909719564a2d65d10401ee97fd462",
     "packages": [
         {
             "name": "ircmaxell/password-compat",
@@ -1051,16 +1051,16 @@
         },
         {
             "name": "symfony/http-kernel",
-            "version": "v3.0.1",
+            "version": "3.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-kernel.git",
-                "reference": "f7933e9f19e26e7baba7ec04735b466fedd3a6db"
+                "reference": "c1fa5d441bf7f799a8889c6eb37a3374b1185a70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/f7933e9f19e26e7baba7ec04735b466fedd3a6db",
-                "reference": "f7933e9f19e26e7baba7ec04735b466fedd3a6db",
+                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/c1fa5d441bf7f799a8889c6eb37a3374b1185a70",
+                "reference": "c1fa5d441bf7f799a8889c6eb37a3374b1185a70",
                 "shasum": ""
             },
             "require": {
@@ -1129,7 +1129,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2015-12-26 16:46:13"
+            "time": "2016-01-12 17:46:41"
         },
         {
             "name": "symfony/intl",
@@ -2418,7 +2418,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,

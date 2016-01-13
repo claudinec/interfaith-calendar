@@ -3,6 +3,7 @@
     "description": "A pre-configured skeleton for the Silex microframework",
     "license": "MIT",
     "type": "project",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
         "silex/silex": "~1.0",
@@ -21,7 +22,8 @@
         "symfony/translation": "~2.3",
         "symfony/twig-bridge": "~2.3",
         "symfony/validator": "~2.3",
-        "symfony/yaml": "^3.0"
+        "symfony/yaml": "^3.0",
+        "symfony/http-kernel": "^3.0"
     },
     "autoload": {
         "psr-0": { "": "src/" }
